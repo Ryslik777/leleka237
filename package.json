@@ -1,6 +1,6 @@
 {
   "name": "leleka237",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demonstration",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ryslik777/leleka237.git"
+    "url": "https://github.com/Ryslik777/leleka237.git"
   },
   "dependencies": {
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "paket228": "1.0.3"
   },
   "author": "",
   "license": "ISC",
