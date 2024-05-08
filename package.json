@@ -1,6 +1,6 @@
 {
   "name": "leleka237",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Demonstration",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,7 @@
   "dependencies": {
     "minti_fulkerson": "0.1.4",
     "malesenka123": "1.0.3",
-    "paket228": "1.0.3",
-    "mpaket123": "1.0.6"
+    "paket228": "1.0.3"
   },
   "author": "",
   "license": "ISC",
